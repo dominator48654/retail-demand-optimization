@@ -24,8 +24,6 @@ inventory optimization, and dynamic pricing.
 └── .gitignore
 ```
 
-> The dataset CSV (`retail_store_inventory.csv`) is **not** included in this repo. Download it from the
-> dataset source and place it in the project root before running.
 
 ## Notebook outline
 
