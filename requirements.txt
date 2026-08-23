@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+statsmodels
+prophet
+tensorflow
+plotly
+# notebook environment (ipywidgets silences the tqdm/IProgress warning)
+jupyter
+notebook
+ipywidgets
